@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Domain1\Aggregate1\" />
+    <Folder Include="Domain1\Aggregate2\" />
+    <Folder Include="Domain2\Aggregate1\" />
+    <Folder Include="Domain2\Aggregate2\" />
+  </ItemGroup>
+
+</Project>
