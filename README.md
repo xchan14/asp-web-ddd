@@ -1,2 +1,2 @@
 # asp-webapi-ddd
-A template for DDD with ASP.Net WebAPI
+A template for DDD with ASP.Net Web Apps.
